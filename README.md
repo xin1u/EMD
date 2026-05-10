@@ -2,9 +2,9 @@
 
 <a href='https://openaccess.thecvf.com/content/ICCV2025W/AIM/papers/Lu_Efficient_High_FPS_Non-Uniform_Motion_Deblurring_via_Progressive_Learning_ICCVW_2025_paper.pdf'><img src='https://img.shields.io/badge/Paper-ICCVW2025-b31b1b.svg'></a> &nbsp;&nbsp;
 
-## :trophy: Bronze Medal of the AIM 2025 High FPS Non-Uniform Motion Deblurring Challenge
+## :trophy: Bronze Medal of the ICCV 2025 High FPS Non-Uniform Motion Deblurring Challenge
 
-Our team **BlurKing** achieved the **3rd highest PSNR** and **3rd highest SSIM** score and received a **Bronze Medal** in the [AIM 2025 High FPS Non-Uniform Motion Deblurring Challenge](https://codalab.lisn.upsaclay.fr/).
+Our team **BlurKing** achieved the **3rd highest PSNR** and **3rd highest SSIM** score and received a **Bronze Medal** in the [ICCV 2025 High FPS Non-Uniform Motion Deblurring Challenge](https://codalab.lisn.upsaclay.fr/).
 
 This is the official PyTorch implementation of the paper:
 
