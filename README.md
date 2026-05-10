@@ -145,7 +145,7 @@ python train_emd.py \
 If you find our repo useful for your research, please consider citing our paper:
 
 ```bibtex
-@InProceedings{Lu_2025_ICCV,
+@InProceedings{Lu_2025_ICCV_EMD,
     author    = {Lu, Xin and Sun, Zhijing and Ge, Chengjie and Peng, Yufeng and Zhou, Ziang and Li, Zihao and Liao, Zishun and Li, Dong and Kang, Qiyu and Fu, Xueyang and Zha, Zheng-Jun},
     title     = {Efficient High FPS Non-Uniform Motion Deblurring via Progressive Learning},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
